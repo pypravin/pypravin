@@ -25,13 +25,3 @@ I’m an aspiring Full Stack Developer from Nepal 🇳🇵, currently in my 7th 
 
 ---
 
-
----
-
-### ⚡ Fun fact:
-I’m equally passionate about **spirituality**, **self-discipline**, and **personal transformation**. Currently on a journey of total transformation—intern-ready in 21 days while also staying grounded in devotion 🙏
-
----
-
-> “Consistency beats talent when talent doesn’t show up.”
-
