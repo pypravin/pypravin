@@ -19,28 +19,12 @@ I’m an aspiring Full Stack Developer from Nepal 🇳🇵, currently in my 7th 
 
 ---
 
-### 💡 I’m looking to collaborate on:
-- Open source projects in **React, Django, or Python**
-- Innovative ideas that solve real-world problems
-
----
-
-### 🤔 I’m looking for help with:
-- Landing my **first internship**
-- Learning **best practices for scalable full-stack development**
-
----
-
 ### 📫 How to reach me:
 - Email: [pravingyawali.study@gmail.com](mailto:pravingyawali.study@gmail.com)
 - GitHub: [@pypravin](https://github.com/pypravin)
 
 ---
 
-### 💬 Ask me about:
-- My journey into full-stack development
-- Best free resources for learning tech
-- The PrimeEvents project and roadmap
 
 ---
 
