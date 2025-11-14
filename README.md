@@ -11,10 +11,8 @@ I’m an aspiring Full Stack Developer from Nepal 🇳🇵, currently in my 7th 
 ---
 
 ### 🌱 I’m currently learning:
-- ⚛️ React.js & Next.js
-- 🐍 Django & Django REST Framework
-- 🐳 Docker & CI/CD workflows
-- ☁️ Cloud Computing (Render, Vercel)
+- CyberSecurity
+- ☁️ Cloud Computing
 - 📦 Git & GitHub best practices
 
 ---
